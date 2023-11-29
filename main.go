@@ -363,6 +363,7 @@ func loop() {
 		"https://create.arduino.cc",
 		"https://cloud.arduino.cc",
 		"https://app.arduino.cc",
+		"https://ide.hackercan.dev",
 	}
 
 	for i := 8990; i < 9001; i++ {
